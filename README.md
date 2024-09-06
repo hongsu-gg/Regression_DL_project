@@ -9,6 +9,7 @@ CNN사용
 데이터: 0~9의 숫자 이미지로 이루어진 MNIST train 6만장 test 3만장 사용
 
 결과 이미지:
+
 ![output](https://github.com/user-attachments/assets/e33da9bf-1c15-4ceb-8362-d8c23d6207dd)
 
 전체 설계도:
